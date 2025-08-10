@@ -26,7 +26,7 @@ The problem is to reduce the cost due to unnecessary repairs. So it is required 
 5. Terraform
 
 ## How to run?
-Before we run the project, make sure that you are having MongoDB in your local system, with Compass since we are using MongoDB for data storage. You also need AWS account to access the service like S3, ECR and EC2 instances.
+Before we run the project, make sure that you are having MongoDB in your local system and update the url in the code with your mongodb url, with Compass since we are using MongoDB for data storage. You also need AWS account to access the service like S3, ECR and EC2 instances.
 
 ## Data Collections
 ![image](https://user-images.githubusercontent.com/57321948/193536736-5ccff349-d1fb-486e-b920-02ad7974d089.png)
